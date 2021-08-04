@@ -1,2 +1,20 @@
+gui/Gui.java
+ gui.Gui
+board/Bitboard.java
+ board.Bitboard
+board/Color.java
+ board.Color
+board/PieceType.java
+ board.PieceType
 Main.java
  Main
+board/Square.java
+ board.Square
+board/Piece.java
+ board.Piece
+move/BitboardMoves.java
+ move.BitboardMoves
+board/Board.java
+ board.Board
+ board.Board$Black
+ board.Board$White
